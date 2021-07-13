@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="500" height="300" viewBox="0 0 500 300" xml:space="preserve">
+<desc>Created with Fabric.js 4.2.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 250 150)" id="6627727f-cfb7-4aee-93e6-673a4c3d32fc"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-250" y="-150" rx="0" ry="0" width="500" height="300" />
+</g>
+<g transform="matrix(Infinity NaN NaN Infinity 0 0)" id="2d6f6d15-b7e8-4974-a8b0-6d9b862ca81b"  >
+</g>
+<g transform="matrix(0.6 0 0 0.6 250 94.82)" style="filter: url(#SVGID_871);" id="a9a86e29-1a95-4213-8f5b-a81189a66e88"  >
+<filter id="SVGID_871" y="-55%" height="210%" x="-30%" width="160%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="16"></feGaussianBlur>
+	<feOffset dx="-6" dy="-6" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(12,241,214)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+		<text xml:space="preserve" font-family="Comfortaa" font-size="97" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-191.91" y="30.47" style="white-space: pre; ">Sparks </tspan></text>
+</g>
+<g transform="matrix(0.6 0 0 0.6 250 150)" style="filter: url(#SVGID_921);" id="2121507a-a845-47c8-afc3-380ad5d74d4a"  >
+<filter id="SVGID_921" y="-106%" height="312%" x="-30%" width="160%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="16.5"></feGaussianBlur>
+	<feOffset dx="6" dy="6" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(121,241,30)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+		<text xml:space="preserve" font-family="Concert One" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-90.92" y="12.57" >Open Bank</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 250 244.33)" style="filter: url(#SVGID_1396);" id="96b4c855-6619-491a-8ec1-ccd0027eff05"  >
+<filter id="SVGID_1396" y="-48%" height="196%" x="-22%" width="144%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="1.5"></feGaussianBlur>
+	<feOffset dx="4" dy="4" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(4,247,146)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+		<text xml:space="preserve" font-family="Lato" font-size="22" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-109.47" y="6.91" >g</tspan><tspan x="-95.7" y="6.91" >e</tspan><tspan x="-81.64" y="6.91" >t</tspan><tspan x="-70.91" y="6.91" >-</tspan><tspan x="-60.74" y="6.91" >e</tspan><tspan x="-46.68" y="6.91" >a</tspan><tspan x="-33" y="6.91" >s</tspan><tspan x="-20.92" y="6.91" >y</tspan><tspan x="-7.13" y="6.91" style="white-space: pre; "> </tspan><tspan x="-0.35" y="6.91" style="white-space: pre; "> </tspan><tspan x="6.42" y="6.91" >p</tspan><tspan x="21.1" y="6.91" >a</tspan><tspan x="34.43" y="6.91" >y</tspan><tspan x="48.22" y="6.91" >-</tspan><tspan x="58.39" y="6.91" >e</tspan><tspan x="72.45" y="6.91" >a</tspan><tspan x="86.13" y="6.91" >s</tspan><tspan x="98.21" y="6.91" >y</tspan></text>
+</g>
+<g transform="matrix(3.34 0 0 2 244.56 127.6)" id="61fc3d9f-fa12-4d2f-9f21-b6fdc83ec5c3"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(101,101,101); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-50, -50)" d="M 90.375 90.375 L 9.625 90.375 L 9.625 9.625 L 90.375 9.625 L 90.375 90.375 z M 11.625 88.375 L 88.375 88.375 L 88.375 11.625 L 11.625 11.625 L 11.625 88.375 z" stroke-linecap="round" />
+</g>
+</svg>
